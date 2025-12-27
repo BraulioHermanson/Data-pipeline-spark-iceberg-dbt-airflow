@@ -809,3 +809,5 @@ SELECT
 FROM {{ ref('stg_bitcoin_prices') }}
 GROUP BY extraction_date, data_source, crypto_symbol
 ```
+---
+<img width="744" height="223" alt="image" src="https://github.com/user-attachments/assets/78e9f150-1b6a-409f-95a1-509c9978d464" />
